@@ -1,9 +1,11 @@
-👋 ¡Hola! Soy Alicia, un desarrollador Full Stack con formación en Desarrollo de Aplicaciones Multiplataforma (DAM).  
+
+#  Hola,Soy Alicia,  👋
+###  Full-Stack, con formación en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 🔹 **Full Stack Developer**: Experiencia en desarrollo web con tecnologías como JavaScript, React, Node.js, y bases de datos SQL/NoSQL.  
 🔹 **Desarrollo de Aplicaciones Multiplataforma (DAM)**: Especializado en la creación de aplicaciones móviles y de escritorio con Java/Kotlin y Flutter.  
 
-🚀 Apasionado por la programación, con ganas de seguir creciendo y aprendiedo. 
+🚀 Aprendiendo cada día a ser mejor en lo que hago, para ofrecer lo mejor de mi. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alicia_Bogarin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/alicia-bogarin-a19b882b1)
 
