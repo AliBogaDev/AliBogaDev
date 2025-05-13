@@ -1,14 +1,35 @@
+# ¡Hola, soy Alicia! 👋
 
-#  Hola,Soy Alicia,  👋
-###  Full-Stack, con formación en Desarrollo de Aplicaciones Multiplataforma (DAM)
+## 🚀 Sobre Mí
+Bienvenidos a AliBogaDev, aqui en contrarás los trabajos que he realizado y en los que me encuentro trabajando actualmente.
 
-🔹 **Full Stack Developer**: Experiencia en desarrollo web con tecnologías como JavaScript, React, Node.js, y bases de datos SQL/NoSQL.  
-🔹 **Desarrollo de Aplicaciones Multiplataforma (DAM)**: Especializado en la creación de aplicaciones móviles y de escritorio con Java/Kotlin y Flutter.  
+## 💻 Tecnologías
+- **Lenguajes:** JavaScript, Python, Java, C++
+- **Frameworks y Librerías:** React, Node.js, Django, Express
+- **Herramientas y Plataformas:** Docker, Kubernetes, GitHub Actions, AWS, Azure
+- **Bases de Datos:** MongoDB, PostgreSQL, MySQL
 
-🚀 Aprendiendo cada día a ser mejor en lo que hago, para ofrecer lo mejor de mi. 
+## 🌱 Actualmente Aprendiendo
+- Aprendizaje Construcción y Publicación de Paginas Web
+- Experiencia se Usuario y Diseño de Interfaz (UX/UI)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alicia_Bogarin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/alicia-bogarin-a19b882b1)
+## 🛠️ Proyectos
+Aquí algunos de mis proyectos favoritos:
+- **[Nombre del Proyecto 1](#)**: Breve descripción del proyecto 1.
+- **[Nombre del Proyecto 2](#)**: Breve descripción del proyecto 2.
+- **[Nombre del Proyecto 3](#)**: Breve descripción del proyecto 3.
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/2ae87f53-7663-426e-b2bd-1028928eed99" alt="Background" width="300">
-</p>
+## 🏆 Logros
+- Construí y mantuve un pipeline de CI/CD usando GitHub Actions.
+- Contribuidor de código abierto en varios repositorios.
+- Ponente en conferencias y encuentros tecnológicos locales.
+
+## 📫 Conectemos
+## 📫 ¡Conecta conmigo!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alicia_Bogarin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/alicia-bogarin-a19b882b)<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Alicia_Bogarin-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]([(https://github.com/AliBogaDev))
+
+
+
+
+---
