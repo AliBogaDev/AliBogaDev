@@ -26,8 +26,17 @@ Aquí algunos de mis proyectos favoritos:
 
 ## 📫 Conectemos
 ## 📫 ¡Conecta conmigo!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alicia_Bogarin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/alicia-bogarin-a19b882b)<br>
-[![GitHub](https://img.shields.io/badge/GitHub-Alicia_Bogarin-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]([(https://github.com/AliBogaDev))
+## ¡Hola! 👋 Soy Alicia Bogarín
+
+Desarrolladora apasionada por la tecnología y el aprendizaje constante.  
+Aquí puedes ver mi trabajo en GitHub:
+
+[![GitHub](https://img.shields.io/badge/GitHub-Alicia_Bogarin-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/AliBogaDev)
+
+También puedes encontrarme en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alicia_Bogarin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alicia-bogarin-a19b882b1)
+
 
 
 
