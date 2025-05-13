@@ -1,34 +1,59 @@
+
+<img src="https://github.com/user-attachments/assets/6d143689-ef96-482f-81f8-9e057ae47162" alt="myself" style="width:250px; border-radius:10px;" />
+
+
 # ¡Hola, soy Alicia! 👋
 
+<div style="background-color:#f9f9f9; padding: 20px; border-radius: 10px;">
+
 ## 🚀 Sobre Mí
-Bienvenidos a AliBogaDev, aqui en contrarás los trabajos que he realizado y en los que me encuentro trabajando actualmente.
+
+Bienvenidos a **AliBogaDev**, aquí encontrarás los trabajos que he realizado y en los que me encuentro trabajando actualmente.
+
+</div>
+
+---
+
+<div style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
 
 ## 💻 Tecnologías
+
 - **Lenguajes:** JavaScript, Python, Java, C++
 - **Frameworks y Librerías:** React, Node.js, Django, Express
 - **Herramientas y Plataformas:** Docker, Kubernetes, GitHub Actions, AWS, Azure
 - **Bases de Datos:** MongoDB, PostgreSQL, MySQL
 
+</div>
+
+---
+
+<div style="background-color:#f9f9f9; padding: 20px; border-radius: 10px;">
+
 ## 🌱 Actualmente Aprendiendo
-- Aprendizaje Construcción y Publicación de Paginas Web
-- Experiencia se Usuario y Diseño de Interfaz (UX/UI)
+
+- Construcción y Publicación de Páginas Web
+- Experiencia de Usuario y Diseño de Interfaz (UX/UI)
+
+</div>
+
+---
+
+<div style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
 
 ## 🛠️ Proyectos
+
 Aquí algunos de mis proyectos favoritos:
-- **[Nombre del Proyecto 1](#)**: Breve descripción del proyecto 1.
-- **[Nombre del Proyecto 2](#)**: Breve descripción del proyecto 2.
-- **[Nombre del Proyecto 3](#)**: Breve descripción del proyecto 3.
 
-## 🏆 Logros
-- Construí y mantuve un pipeline de CI/CD usando GitHub Actions.
-- Contribuidor de código abierto en varios repositorios.
-- Ponente en conferencias y encuentros tecnológicos locales.
+- **DODODEX**: Una enciclopedia de dinosaurios.
+- **CreateIN**: Para encontrar el origen de los productos comprados.
+- **Pilanetud (en desarrollo)**: Web de pilates.
 
-## 📫 Conectemos
+</div>
+
+---
+
 ## 📫 ¡Conecta conmigo!
-## ¡Hola! 👋 Soy Alicia Bogarín
 
-Desarrolladora apasionada por la tecnología y el aprendizaje constante.  
 Aquí puedes ver mi trabajo en GitHub:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alicia_Bogarin-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/AliBogaDev)
@@ -36,9 +61,3 @@ Aquí puedes ver mi trabajo en GitHub:
 También puedes encontrarme en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alicia_Bogarin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alicia-bogarin-a19b882b1)
-
-
-
-
-
----
