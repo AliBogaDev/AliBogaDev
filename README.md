@@ -1,5 +1,6 @@
 
-<img src="https://github.com/user-attachments/assets/6d143689-ef96-482f-81f8-9e057ae47162" alt="myself" style="width:250px; border-radius:10px;" />
+
+
 
 
 # ¡Hola, soy Alicia! 👋
